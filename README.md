@@ -2,6 +2,34 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
+
+**Workflow status**
+
+[![.NET](https://github.com/seanpm2001/Team8_Collection/actions/workflows/dotnet.yml/badge.svg)](https://github.com/seanpm2001/Team8_Collection/actions/workflows/dotnet.yml)
+[![.NET Core Desktop](https://github.com/seanpm2001/Team8_Collection/actions/workflows/dotnet-desktop.yml/badge.svg)](https://github.com/seanpm2001/Team8_Collection/actions/workflows/dotnet-desktop.yml)
+[![Android CI](https://github.com/seanpm2001/Team8_Collection/actions/workflows/android.yml/badge.svg)](https://github.com/seanpm2001/Team8_Collection/actions/workflows/android.yml)
+[![CodeQL](https://github.com/seanpm2001/Team8_Collection/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/seanpm2001/Team8_Collection/actions/workflows/codeql-analysis.yml)
+[![Debian Package Packager workflow (build deb package)](https://github.com/seanpm2001/Team8_Collection/actions/workflows/debian-package-packager.yml/badge.svg)](https://github.com/seanpm2001/Team8_Collection/actions/workflows/debian-package-packager.yml)
+[![Django CI](https://github.com/seanpm2001/Team8_Collection/actions/workflows/django.yml/badge.svg)](https://github.com/seanpm2001/Team8_Collection/actions/workflows/django.yml)
+[![Gradle Package](https://github.com/seanpm2001/Team8_Collection/actions/workflows/java-gradle-publish.yml/badge.svg)](https://github.com/seanpm2001/Team8_Collection/actions/workflows/java-gradle-publish.yml)
+[![Java CI](https://github.com/seanpm2001/Team8_Collection/actions/workflows/java-ant.yml/badge.svg)](https://github.com/seanpm2001/Team8_Collection/actions/workflows/java-ant.yml)
+[![Java CI with Gradle](https://github.com/seanpm2001/Team8_Collection/actions/workflows/java-gradle.yml/badge.svg)](https://github.com/seanpm2001/Team8_Collection/actions/workflows/java-gradle.yml)
+[![Java CI with Maven](https://github.com/seanpm2001/Team8_Collection/actions/workflows/java-maven.yml/badge.svg)](https://github.com/seanpm2001/Team8_Collection/actions/workflows/java-maven.yml)
+[![Lint Code Base](https://github.com/seanpm2001/Team8_Collection/actions/workflows/super-linter.yml/badge.svg)](https://github.com/seanpm2001/Team8_Collection/actions/workflows/super-linter.yml)
+[![Makefile CI](https://github.com/seanpm2001/Team8_Collection/actions/workflows/makefile.yml/badge.svg)](https://github.com/seanpm2001/Team8_Collection/actions/workflows/makefile.yml)
+[![Maven Package](https://github.com/seanpm2001/Team8_Collection/actions/workflows/java-maven-publish.yml/badge.svg)](https://github.com/seanpm2001/Team8_Collection/actions/workflows/java-maven-publish.yml)
+[![Pylint](https://github.com/seanpm2001/Team8_Collection/actions/workflows/pylint.yml/badge.svg)](https://github.com/seanpm2001/Team8_Collection/actions/workflows/pylint.yml)
+[![Python Package using Conda](https://github.com/seanpm2001/Team8_Collection/actions/workflows/python-package-conda.yml/badge.svg)](https://github.com/seanpm2001/Team8_Collection/actions/workflows/python-package-conda.yml)
+[![Python application](https://github.com/seanpm2001/Team8_Collection/actions/workflows/python-app.yml/badge.svg)](https://github.com/seanpm2001/Team8_Collection/actions/workflows/python-app.yml)
+[![Python package](https://github.com/seanpm2001/Team8_Collection/actions/workflows/python-package.yml/badge.svg)](https://github.com/seanpm2001/Team8_Collection/actions/workflows/python-package.yml)
+[![RPM (Red Hat Package Manager) Package Packager workflow](https://github.com/seanpm2001/Team8_Collection/actions/workflows/rpm-package-packager.yml/badge.svg)](https://github.com/seanpm2001/Team8_Collection/actions/workflows/rpm-package-packager.yml)
+[![Swift](https://github.com/seanpm2001/Team8_Collection/actions/workflows/swift.yml/badge.svg)](https://github.com/seanpm2001/Team8_Collection/actions/workflows/swift.yml)
+[![Upload Python Package](https://github.com/seanpm2001/Team8_Collection/actions/workflows/python-publish.yml/badge.svg)](https://github.com/seanpm2001/Team8_Collection/actions/workflows/python-publish.yml)
+[![Xcode - Build and Analyze](https://github.com/seanpm2001/Team8_Collection/actions/workflows/objective-c-xcode.yml/badge.svg)](https://github.com/seanpm2001/Team8_Collection/actions/workflows/objective-c-xcode.yml)
+[![YAML Lint](https://github.com/seanpm2001/Team8_Collection/actions/workflows/yaml-lint.yml/badge.svg)](https://github.com/seanpm2001/Team8_Collection/actions/workflows/yaml-lint.yml)
+[![iOS starter workflow](https://github.com/seanpm2001/Team8_Collection/actions/workflows/ios.yml/badge.svg)](https://github.com/seanpm2001/Team8_Collection/actions/workflows/ios.yml)
+
+
 ***
 
 # The Team8-Collection project
@@ -93,6 +121,8 @@ Translations are currently done with Bing translate and DeepL. Support for Googl
 [14.0 - Footer](#You-have-reached-the-end-of-the-README-file)
 
 > [14.1 - End of file](#EOF)
+
+[15.0 - Contributors (all-contributors)](#Contributors-)
 
 ***
 
@@ -279,15 +309,31 @@ Contributing is allowed for this project, as long as you follow the rules of the
 
 ## About README
 
-File type: `Markdown (*.md)`
+<details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
-File version: `1 (Saturday, July 24th 2021 at 7:59 pm)`
+**File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-Line count: `0,412`
+**File version:** `6 (2022, Tuesday, January 11th at 4:09 pm)`
+
+**Line count (including blank lines and compiler line):** `587`
+
+**Current article language:** `English (US)` / `Markdown` / `HTML5`
+
+**Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
+
+**All times are UTC-7 (PDT/Pacific Time)** (Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)
+
+**You may need special rendering support for the `<dropdown>` HTML tag being used in this document**
+
+</details>
 
 ***
 
 ## README version history
+
+This section has been collapsed for readability
+
+<details><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 Version 0.1 (Sunday, March 21st 2021 at 7:50 pm)
 
@@ -379,7 +425,9 @@ Version 0.12A (Thursday, July 22nd 2021 at 6:26 pm)
 
 > * No other changes in version 0.11B
 
-Version 1 (Saturday, July 24th 2021 at 7:59 pm)
+**Version 1 (Saturday, July 24th 2021 at 7:59 pm)**
+
+**This release was created by" [@seanpm2001](https://github.com/seanpm2001/)
 
 > Changes:
 
@@ -395,23 +443,125 @@ Version 1 (Saturday, July 24th 2021 at 7:59 pm)
 
 > * No other changes in version 1
 
-Version 2 (Coming soon)
+**Version 2 (2021, December 31st at 5:29 pm)**
+
+**This release was created by: [@all-contributors](https://github.com/all-contributors/)
+
+> Changes:
+
+> * Added support for all-contributors
+
+> * Added the all-contributors badge, set to 1
+
+> * Added [@seanpm2001](https://github.com/seanpm2001/) as a contributor
+
+> * Added the Contributors- section
+
+> * No other changes in version 2
+
+**Version 3 (2021, December 31st at 5:32 pm)**
+
+**This release was created by: [@all-contributors](https://github.com/all-contributors/)
+
+> Changes:
+
+> * Updated the all-contributors badge, set to 2
+
+> * Added [@all-contributors](https://github.com/all-contributors/) as a contributor
+
+> * Updated the Contributors- section
+
+> * No other changes in version 3
+
+**Version 4 (2021, December 31st at 5:35 pm)**
+
+**This release was created by: [@all-contributors](https://github.com/all-contributors/)
+
+> Changes:
+
+> * Updated the all-contributors badge, set to 3
+
+> * Added [@MRBlazed90](https://github.com/MRBlazed90) as a contributor
+
+> * Updated the Contributors- section
+
+> * No other changes in version 4
+
+**Version 5 (Tuesday, 2022 January 11th at 4:09 pm)**
+
+**This release was created by" [@seanpm2001](https://github.com/seanpm2001/)
+
+> Changes:
+
+> * Updated the title section, adding support badges for 23 workflows
+
+> * Updated the file info section
+
+> * Updated the file history section
+
+> * Made a copy of the contributors badge
+
+> * Updated the footer
+
+> * Updated the index
+
+> * No other changes in version 1
+
+**Version 6 (Coming soon)**
 
 > Changes:
 
 > * Coming soon
 
-> * No other changes in version 2
+> * No other changes in version 6
+
+**Version 7 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 7
+
+**Version 8 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 8
+
+**Version 9 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 9
+
+**Version 10 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 10
+
+</details>
 
 ***
 
 ## You have reached the end of the README file
 
-( [Back to top](#Top) | [Exit to GitHub](https://github.com) | [Exit to DuckDuckGo](https://duckduckgo.com) )
+( [Back to top](#Top) | [Exit to GitHub](https://github.com) | [Exit to Bing](https://www.bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com) | [Exit to Safe.DuckDuckGo.com](https://safe.duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org/) | [Exit to Swisscows](https://www.swisscows.com/) )
 
 ### EOF
 
 ***
+
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+
+People who have worked on, or collaborated with this project.
 
 ## Contributors ✨
 
