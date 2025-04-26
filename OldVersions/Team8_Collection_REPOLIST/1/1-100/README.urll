@@ -2,10 +2,10 @@
 //// Team8_Collection_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Team8 Collection project repositories by @seanpm2001
-//// As of 2025, Thursday, April 24th
+//// As of 2025, Friday, April 25th
 
 //// ----------------------------------------------------- \\\\
-//// Team8 Collection Project (10)
+//// Team8 Collection Project (16)
 //// ----------------------------------------------------- \\\\
 
 //// Team8 Collection Core (1)
@@ -39,9 +39,24 @@ https://github.com/seanpm2001/Team8Collection_City_Docs
 https://github.com/seanpm2001/Team8Collection_Restaurant
 https://github.com/seanpm2001/Team8Collection_Restaurant_Docs
 
+//// Team8Collection Pet Shop (2)
+
+https://github.com/seanpm2001/Team8Collection_PetShop
+https://github.com/seanpm2001/Team8Collection_PetShop_Docs
+
+//// Team8Collection Boutique (2)
+
+https://github.com/seanpm2001/Team8Collection_Boutique
+https://github.com/seanpm2001/Team8Collection_Boutique_Docs
+
+//// Team8Collection Farm (2)
+
+https://github.com/seanpm2001/Team8Collection_Farm
+https://github.com/seanpm2001/Team8Collection_Farm_Docs
+
 //// ----------------------------------------------------- \\\\
-//// Repo count (Team8 Collection): 10
-//// 1+1+1+1+2+2+2=10
+//// Repo count (Team8 Collection): 16
+//// 1+1+1+1+2+2+2+2+2+2=16
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -53,15 +68,15 @@ https://github.com/seanpm2001/Team8Collection_Restaurant_Docs
 //// Repo count (See also): 0
 //// 0+0=0
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 10
-//// 10+0=10
+//// Total repo count: 16
+//// 16+0=16
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 1 (2025, Thursday, April 24th at 06:30 pm PST)
-//// Line count (including blank lines and compiler line): 68
+//// File version: 2 (2025, Friday, April 25th at 06:16 pm PST)
+//// Line count (including blank lines and compiler line): 83
 //// ----------------------------------------------------- \\\\
 
 //// End of file
